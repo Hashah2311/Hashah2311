@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hashah2311
-- 👀 I’m interested in Mths, Science, Coding, etc.
+- 👀 I’m interested in Maths, Science, Coding, etc.
 - 🌱 I’m currently learning Python, Unity, VSCode, Web Development, etc.
 - 💞️ I’m looking to collaborate on basic starter projects which I can understand
 - 📫 How to reach me:-
